@@ -1,0 +1,5 @@
+summary: A graphical tool to visualize binary data
+webpage: https://github.com/sharkdp/binocle
+version: 0.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/binocle-0.3.0-macos-14.0-x86_64.tar.xz
+bin-sha: fb08c307dfe7b7de4c41992b3d9fa15d02c868404ad054eb4e5b4be035dd7f12

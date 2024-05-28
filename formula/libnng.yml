@@ -1,0 +1,5 @@
+summary: Nanomsg-next-generation -- light-weight brokerless messaging
+webpage: https://nng.nanomsg.org
+version: 1.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/libnng-1.8.0-macos-14.0-x86_64.tar.xz
+bin-sha: e9f2601517f26327fc9eeb3ad47cfdb06e0300db36f402199a66fb6a2e6349d0

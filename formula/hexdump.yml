@@ -1,0 +1,5 @@
+summary: hexdump library and cli
+webpage: https://www.25thandclement.com/~william/projects/hexdump.c.html
+version: 20181215
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/hexdump-20181215-macos-14.0-x86_64.tar.xz
+bin-sha: a38faaf64d7ef256658d85d654836949a803c01ab4ad483ec771ea074b1c794d

@@ -1,0 +1,5 @@
+summary: X.Org X Damage Extension library
+webpage: https://www.x.org/
+version: 1.1.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/xorg-libxdamage-1.1.6-macos-14.0-x86_64.tar.xz
+bin-sha: 2ee93fccabb6e47021014e9577a7c09706017e83871f2b14c8a8635be162ea79

@@ -1,0 +1,5 @@
+summary: TCP over DNS tunnel
+webpage: https://packages.debian.org/sid/dns2tcp
+version: 0.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/dns2tcp-0.5.2-macos-14.0-x86_64.tar.xz
+bin-sha: df4ee33e9e1d4ffd409f3997832eb52dee5816ae6d928e0d7cadb8dd33037c4a

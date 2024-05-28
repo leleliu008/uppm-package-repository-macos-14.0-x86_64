@@ -1,0 +1,5 @@
+summary: Vi IMproved - enhanced vi editor
+webpage: https://www.vim.org/
+version: 9.1.0300
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/vim-9.1.0300-macos-14.0-x86_64.tar.xz
+bin-sha: 8c441fa175ebccea7cb5ae3eeb4b0de1b1c6a3a93e49b560947b7d45cfc4933a

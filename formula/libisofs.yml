@@ -1,0 +1,5 @@
+summary: Library to create an ISO-9660 filesystem with extensions like RockRidge or Joliet
+webpage: https://dev.lovelyhq.com/libburnia/libisofs
+version: 1.5.6.pl01
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/libisofs-1.5.6.pl01-macos-14.0-x86_64.tar.xz
+bin-sha: c0a75e10c0b9d56a07d5cd3d06d7d6d60f89245e16fb3786f9ea9a9d19dfcd2c

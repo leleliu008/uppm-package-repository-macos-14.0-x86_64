@@ -1,0 +1,5 @@
+summary: C library for multimedia protocols such as SIP, SDP, RTP and more
+webpage: https://www.pjsip.org/
+version: 2.14.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/pjsip-2.14.1-macos-14.0-x86_64.tar.xz
+bin-sha: 411216509bc55251baef0a7640c2bb7f7dfb4c1b02f7a0d9ec0f953a07baeff1

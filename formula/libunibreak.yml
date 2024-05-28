@@ -1,0 +1,5 @@
+summary: line breaking and word breaking algorithms
+webpage: https://github.com/adah1972/libunibreak
+version: 6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/libunibreak-6.1-macos-14.0-x86_64.tar.xz
+bin-sha: 5d63f849e7a12f56d69ff513303f24709a697d7fa8fe897d4c4aa11bae34ba63

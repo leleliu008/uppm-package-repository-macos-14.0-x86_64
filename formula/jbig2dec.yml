@@ -1,0 +1,5 @@
+summary: JBIG2 decoder and library (for monochrome documents)
+webpage: https://jbig2dec.com/
+version: 0.20
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/jbig2dec-0.20-macos-14.0-x86_64.tar.xz
+bin-sha: 4d1b0a5a888ba8018aa41ffe3fa8293039d807c6626fd79e180b9321d2283088

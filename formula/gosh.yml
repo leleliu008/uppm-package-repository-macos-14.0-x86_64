@@ -1,0 +1,5 @@
+summary: A shell parser, formatter, and interpreter with bash support written in golang
+webpage: https://github.com/mvdan/sh
+version: 3.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/gosh-3.4.1-macos-14.0-x86_64.tar.xz
+bin-sha: 86a5c73a68c4d87053b1519395f67fe730437757a40fe312f5c806e9e03f5f81

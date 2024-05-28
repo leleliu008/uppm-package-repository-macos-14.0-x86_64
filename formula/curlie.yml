@@ -1,0 +1,5 @@
+summary: Power of curl, ease of use of httpie
+webpage: https://curlie.io
+version: 1.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/curlie-1.7.2-macos-14.0-x86_64.tar.xz
+bin-sha: d847552b4bc3a0f59eabf62577f06b779eb70c5fb6d408d400fea5678f16232e

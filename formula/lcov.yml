@@ -1,0 +1,5 @@
+summary: Graphical front-end for GCC coverage testing tool - gcov
+webpage: http://ltp.sourceforge.net/coverage/lcov.php
+version: 2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/lcov-2.0-macos-14.0-x86_64.tar.xz
+bin-sha: 60c31217bc883d57544a8fea36ef7b27a2fad185f0a26eebb035106e383a33f5

@@ -1,0 +1,5 @@
+summary: Bourne-Again SHell, a UNIX command interpreter
+webpage: https://www.gnu.org/software/bash
+version: 5.2.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/bash-5.2.21-macos-14.0-x86_64.tar.xz
+bin-sha: 3f125dd7e4631f6c1856beec6cbc270231ffb4779eb99c70830eed746ff1003e

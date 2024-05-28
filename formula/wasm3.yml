@@ -1,0 +1,5 @@
+summary: High performance WebAssembly interpreter
+webpage: https://github.com/wasm3/wasm3
+version: 0.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/wasm3-0.5.0-macos-14.0-x86_64.tar.xz
+bin-sha: cfa77d8cbc933e110f995d5ab620883ea339f9f7e1145d04d3efc82027d72e3c

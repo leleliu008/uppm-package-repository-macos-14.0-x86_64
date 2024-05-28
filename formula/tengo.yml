@@ -1,0 +1,5 @@
+summary: Fast script language for Go
+webpage: https://tengolang.com
+version: 2.17.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/tengo-2.17.0-macos-14.0-x86_64.tar.xz
+bin-sha: ce36ac9bc295c6053580abf9dca8dc99c8489ec67a5ce36c89a53349c77b6bc1

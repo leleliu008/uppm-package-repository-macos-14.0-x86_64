@@ -1,0 +1,5 @@
+summary: Common error values for all GnuPG components
+webpage: https://www.gnupg.org/related_software/libgpg-error
+version: 1.49
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/libgpg-error-1.49-macos-14.0-x86_64.tar.xz
+bin-sha: 550114de106fdd7375575a3ba2961a72f3fa8e9cd176c73a945b4ef42cb0b384

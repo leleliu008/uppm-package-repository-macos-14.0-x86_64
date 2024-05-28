@@ -1,0 +1,5 @@
+summary: Command-line tools for dealing with Type 1 fonts
+webpage: https://www.lcdf.org/type/
+version: 1.42
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/t1utils-1.42-macos-14.0-x86_64.tar.xz
+bin-sha: 0cd9b4aca31a62bb03fe9481a6471644bb494a8303cca78bba492ffcd39fffd3

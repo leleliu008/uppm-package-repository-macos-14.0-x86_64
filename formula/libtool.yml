@@ -1,0 +1,5 @@
+summary: Generic library support script
+webpage: https://www.gnu.org/software/libtool
+version: 2.4.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/libtool-2.4.7-macos-14.0-x86_64.tar.xz
+bin-sha: 334e5f0044229e25bedd72635568a31e48c0284903aecaaa68ff60c1c2220bea

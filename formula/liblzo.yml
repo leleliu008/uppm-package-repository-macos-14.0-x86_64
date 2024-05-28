@@ -1,0 +1,5 @@
+summary: Real-time data compression library
+webpage: https://www.oberhumer.com/opensource/lzo
+version: 2.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/liblzo-2.10-macos-14.0-x86_64.tar.xz
+bin-sha: 88b54e840e748d5de29e1ae02575a388622851f5a393f86b842fc6366de9d86a

@@ -1,0 +1,5 @@
+summary: a packrat parser generator for C
+webpage: https://github.com/enechaev/packcc
+version: 2024.05.27
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/packcc-2024.05.27-macos-14.0-x86_64.tar.xz
+bin-sha: 2fb541a9af09a57174a02827c60f7ce7f2f71768d4df5138dd06f62045872002

@@ -1,0 +1,5 @@
+summary: A command line utility for calculating BLAKE3 hashes
+webpage: https://github.com/BLAKE3-team/BLAKE3
+version: 1.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/b3sum-1.5.1-macos-14.0-x86_64.tar.xz
+bin-sha: dc32df3c6cef26f7b85e10c8b3d981db80b79f81190442b6ff3cecd03e36b972

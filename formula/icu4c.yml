@@ -1,0 +1,5 @@
+summary: C/C++ and Java libraries for Unicode and globalization
+webpage: http://site.icu-project.org/home
+version: 74.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/icu4c-74.2-macos-14.0-x86_64.tar.xz
+bin-sha: d5a294a98102c317f60ab91f521f956ce91b6f9bdc5a1138183bcb944e072084

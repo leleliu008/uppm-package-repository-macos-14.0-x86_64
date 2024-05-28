@@ -1,0 +1,5 @@
+summary: A C++ library for parsing, formatting, and validating international phone numbers.
+webpage: https://github.com/google/libphonenumber
+version: 8.13.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/libphonenumber-8.13.23-macos-14.0-x86_64.tar.xz
+bin-sha: 40883ddb67e92489f9b17651a815fa43c9bc3f5d4f28837023d4b15299b95dbc

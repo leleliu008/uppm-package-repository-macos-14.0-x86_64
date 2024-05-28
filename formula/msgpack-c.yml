@@ -1,0 +1,5 @@
+summary: Library for a binary-based efficient data interchange format
+webpage: https://msgpack.org/
+version: 6.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/msgpack-c-6.0.0-macos-14.0-x86_64.tar.xz
+bin-sha: 45d124522b2bc80e2059ed349ea64698bea5aa214ce889b3355c58f6443d8abe

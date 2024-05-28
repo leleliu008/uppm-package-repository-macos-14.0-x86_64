@@ -1,0 +1,5 @@
+summary: A command-line tool for generating documentation from annotated programming language source files
+webpage: https://www.doxygen.nl/
+version: 1.10.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/doxygen-1.10.0-macos-14.0-x86_64.tar.xz
+bin-sha: 0f51fc577a564206f9013f96a11f523be600e74d7e9aa2518796edd546cb9f1e

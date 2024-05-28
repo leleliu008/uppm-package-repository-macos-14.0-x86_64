@@ -1,0 +1,5 @@
+summary: Download with resuming and segmented downloading
+webpage: https://aria2.github.io
+version: 1.37.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/aria2-1.37.0-macos-14.0-x86_64.tar.xz
+bin-sha: 2726cab9fa28a32080b22bf20b88dc155df88f3dfd730ef87dbdb9244b54fcea

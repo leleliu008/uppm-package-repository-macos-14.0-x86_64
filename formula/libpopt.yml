@@ -1,0 +1,5 @@
+summary: Library like getopt(3) with a number of enhancements
+webpage: https://github.com/rpm-software-management/popt
+version: 1.19
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/libpopt-1.19-macos-14.0-x86_64.tar.xz
+bin-sha: d280555552a741d064167b74783845eb837cd8bd64c6386bd3da70eedd2fd508

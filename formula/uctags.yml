@@ -1,0 +1,5 @@
+summary: Maintained ctags implementation
+webpage: https://ctags.io/
+version: 2024.05.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/uctags-2024.05.28-macos-14.0-x86_64.tar.xz
+bin-sha: 2b741a7693facfc483914b801f5ccc4de6f8af7c67367f5cc4a1051618fe90fc

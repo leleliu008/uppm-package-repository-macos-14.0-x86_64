@@ -1,0 +1,5 @@
+summary: State machine compiler
+webpage: https://www.colm.net/open-source/ragel/
+version: 6.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/ragel-6.10-macos-14.0-x86_64.tar.xz
+bin-sha: 7424c4bc27c58d3e81dd0e0c8ff02b3d89ed18596ea3c464b6d857a1a5e38f1f

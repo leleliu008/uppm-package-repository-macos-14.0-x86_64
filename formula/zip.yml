@@ -1,0 +1,5 @@
+summary: Compression and file packaging/archive utility
+webpage: https://infozip.sourceforge.io/Zip.html
+version: 3.0.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/zip-3.0.11-macos-14.0-x86_64.tar.xz
+bin-sha: 863ec5ba1dba05a9b11aaa429d7c1331dc306b45b3c05c9798b393586f1cbd82

@@ -1,0 +1,5 @@
+summary: XML-based font configuration tools
+webpage: https://wiki.freedesktop.org/www/Software/fontconfig
+version: 2.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/fontconfig-2.15.0-macos-14.0-x86_64.tar.xz
+bin-sha: 65ee76392767c50f15fffe2ce4cee2b16acf42b054de01cf30e75d95b8f56efe

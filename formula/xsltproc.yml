@@ -1,0 +1,5 @@
+summary: A command line tool for applying XSLT stylesheets to XML documents
+webpage: http://xmlsoft.org/XSLT
+version: 1.1.39
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/xsltproc-1.1.39-macos-14.0-x86_64.tar.xz
+bin-sha: 9a91fab67c83d8b13a4d3fe1f9d20d1707116f13b658f2740d517521a46489ed

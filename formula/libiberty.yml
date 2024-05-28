@@ -1,0 +1,5 @@
+summary: a collection of subroutines used by various GNU programs.
+webpage: https://packages.debian.org/sid/libiberty-dev
+version: 20230104
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/libiberty-20230104-macos-14.0-x86_64.tar.xz
+bin-sha: 494427a347b3b388860ffb5d62404a0b510ead43bcfc1ab5427643a10ca8c8c5

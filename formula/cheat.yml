@@ -1,0 +1,5 @@
+summary: Create and view interactive cheat sheets for *nix commands
+webpage: https://github.com/cheat/cheat
+version: 4.4.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/cheat-4.4.2-macos-14.0-x86_64.tar.xz
+bin-sha: 0a2871f69f30a52bc24e8df30052a51ff79c3251aef046ff51cf07fe3d877a43

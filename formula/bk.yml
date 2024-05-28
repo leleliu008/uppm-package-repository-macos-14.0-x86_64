@@ -1,0 +1,5 @@
+summary: Terminal Epub reader
+webpage: https://github.com/aeosynth/bk
+version: 0.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64/releases/download/2024.05.28/bk-0.6.0-macos-14.0-x86_64.tar.xz
+bin-sha: 8d7312703a049aeee840c897242aceb1919c54ccb80acb0936fe6d7e80ef1be5
