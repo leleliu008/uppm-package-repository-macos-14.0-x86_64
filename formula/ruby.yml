@@ -1,0 +1,5 @@
+summary: ruby runtime
+webpage: https://www.ruby-lang.org/
+version: 3.3.6
+bin-url: https://github.com/leleliu008/ruby-distribution/releases/download/3.3.6/ruby-3.3.6-macos-14.0-x86_64.tar.xz
+bin-sha: dccdcf61bc1d46d167db4438117c47d3fbbf18717cf629ea34af6117c074e7e6
